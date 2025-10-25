@@ -55,7 +55,7 @@
   <footer>
     <h3>Contact Us</h3>
     <p><strong>Your Name:</strong> Ponnam Phani Krishna</p>
-    <p><strong>Telegram:</strong> <a href="https://t.me/yourtelegramid" target="_blank">@yourtelegramid</a></p>
+    <p><strong>Telegram:</strong> <a href="https://t.me/Phani_Ponnam" target="_blank">@phani_ponnam</a></p>
     <p>&copy; 2025 Teraskill Academy. All Rights Reserved.</p>
   </footer>
 </body>
